@@ -1,0 +1,10 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: azure;
+    background-color: rgb(224, 224, 224);
+}
+header{
+    height: 230px;
+   color: white;
+   text-align: center;
+}
